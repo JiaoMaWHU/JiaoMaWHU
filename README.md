@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JiaoMaWHU
 - 👀 I’m interested in Software Product.
-- 🌱 I’m currently learning MIT 6.824.
-- 💞️ I’m looking to collaborate on Doing 6.824 labs.
 - 📫 How to reach me, hit me at jiaomajiaoma@gmail.com
 
 <!---
